@@ -1,4 +1,4 @@
-# *CS 25-059 Interactive online interface for visualization and analysis of molecular data*
+# *CS 25-343 Interactive online interface for visualization and analysis of molecular data*
 ## *VCU College of Engineering*
 
 ## *A major online database that provides access to large amounts of biological data in the area of protein science requires a redesigned graphical interface that meets several criteria: fast generation time, inclusion of interactive components and user-friendly organization of the underlying data. This project is an opportunity to contribute to the ongoing efforts of an international team to improve the database that is currently used by hundreds of research labs across the globe.*
