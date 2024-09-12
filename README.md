@@ -1,9 +1,7 @@
-# *Project Description*
-## *Sponsoring Company or Organization*
-VCU College of Engineering
+# *CS 25-059 Interactive online interface for visualization and analysis of molecular data*
+## *VCU College of Engineering*
 
-## *Short Project Description*
-A major online database that provides access to large amounts of biological data in the area of protein science requires a redesigned graphical interface that meets several criteria: fast generation time, inclusion of interactive components and user-friendly organization of the underlying data. This project is an opportunity to contribute to the ongoing efforts of an international team to improve the database that is currently used by hundreds of research labs across the globe.
+## *A major online database that provides access to large amounts of biological data in the area of protein science requires a redesigned graphical interface that meets several criteria: fast generation time, inclusion of interactive components and user-friendly organization of the underlying data. This project is an opportunity to contribute to the ongoing efforts of an international team to improve the database that is currently used by hundreds of research labs across the globe.*
 
 | Folder | Description |
 |---|---|
@@ -12,8 +10,6 @@ A major online database that provides access to large amounts of biological data
 | Project Deliverables | Folder that contains final pdf versions of all Fall and Spring Major Deliverables |
 | Status Reports | Project management documentation - weekly reports, milestones, etc. |
 | scr | Source code - create as many subdirectories as needed |
-
-**Note:** Commits behind this fork could be automatically synced, meaning that changes made in the template are pushed into your repo. Please do not discard commits ahead (these are the updates you make to this repository).
 
 ## Project Team
 - *Lukasz Kurgan*  - *VCU* - Mentor/Faculty Advisor
