@@ -1,14 +1,13 @@
-# *Your Project Description*
+# *Project Description*
 ## *Sponsoring Company or Organization*
+VCU College of Engineering
+
 ## *Short Project Description*
-The directory structure in this GitHub is to allow the project to have all its resources self-contained.
-Open Source software should not just be a repository of code.  There are a number of directories to help you and others who will 
-follow in your footsteps.  It'll also allow the Linux Foundation OMP Mentorship program to keep track of your project and get
-a better understanding of the problems you encountered during the development of this project. 
+A major online database that provides access to large amounts of biological data in the area of protein science requires a redesigned graphical interface that meets several criteria: fast generation time, inclusion of interactive components and user-friendly organization of the underlying data. This project is an opportunity to contribute to the ongoing efforts of an international team to improve the database that is currently used by hundreds of research labs across the globe.
 
 | Folder | Description |
 |---|---|
-| Documentation |  all documentation the project team has created to describe the architecture, design, installation, and configuration of the project |
+| Documentation |  All documentation the project team has created to describe the architecture, design, installation, and configuration of the project |
 | Notes and Research | Relevant helpful information to understand the tools and techniques used in the project |
 | Project Deliverables | Folder that contains final pdf versions of all Fall and Spring Major Deliverables |
 | Status Reports | Project management documentation - weekly reports, milestones, etc. |
