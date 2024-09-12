@@ -17,10 +17,10 @@ a better understanding of the problems you encountered during the development of
 **Note:** Commits behind this fork could be automatically synced, meaning that changes made in the template are pushed into your repo. Please do not discard commits ahead (these are the updates you make to this repository).
 
 ## Project Team
-- *Mentor's Name*  - *Company Affliation* - Mentor
-- *Technical Advisor Name* - *Company Affliation* - Technical Advisor
-- *Faculty Advisor's Name* - *Department* - Faculty Advisor
-- *Student's Name* - *major* - Student Team Member
-- *Student's Name* - *major* - Student Team Member
-- *Student's Name* - *major* - Student Team Member
-- *Student's Name* - *major* - Student Team Member
+- *Lukasz Kurgan*  - *VCU* - Mentor/Faculty Advisor
+- *Sushmita Basu Das* - *VCU* - Mentor
+- *Ajay Arya* - *VCU* - Mentor
+- *Ben Baldwin* - *Computer Science* - Student Team Member
+- *Mahmuda Sarker* - *Computer Science* - Student Team Member
+- *Megan Lee* - *Computer Science* - Student Team Member
+- *James West* - *Computer Science* - Student Team Member
