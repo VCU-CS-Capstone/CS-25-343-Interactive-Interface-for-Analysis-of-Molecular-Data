@@ -9,12 +9,13 @@ Lukasz Kurgan
 Lukasz Kurgan, Sushmita Basu Das, Ajay Arya
 
 ## 1) Accomplishments this week ##
-   - Met with faculty advisors
-   - Gained a more comprehensive understanding of the project
-   - Filled out team contract
+   - Met with team members
 
 ## 2) Milestones to be completed next week ##
    - Explore and experiment with graphical interface
+   - Fill out team contract
+   - Meet with faculty advisor
+   - Learn more about the project
 
 ## 3) Issues, problems or concerns ##
    - None present so far
