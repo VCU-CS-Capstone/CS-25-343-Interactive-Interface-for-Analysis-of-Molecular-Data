@@ -15,7 +15,7 @@ Lukasz Kurgan, Sushmita Basu Das, Ajay Arya
 ## 2) Milestones to be completed next week ##
    - Continue exploration of panels
    - Discover other ideas for panel implementations
-   - Complete project proposal
+   - Make progress on project proposal
 
 ## 3) Issues, problems or concerns ##
    - None present so far
