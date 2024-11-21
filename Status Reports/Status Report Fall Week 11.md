@@ -14,6 +14,7 @@ Lukasz Kurgan, Sushmita Basu Das, Ajay Arya
 
 ## 2) Milestones to be completed next week ##
    - Assign scores for provided implementation options
+   - Complete fall poster
 
 ## 3) Issues, problems or concerns ##
    - None present so far
