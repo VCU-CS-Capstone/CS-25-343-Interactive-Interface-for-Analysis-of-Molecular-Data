@@ -32,14 +32,14 @@ Status Report Fall Week XX.md is a template for to copy-paste into new Status re
 
 | Document | Tasks | Accomplishments| Issues |
 |---|---|---|---|
-| Week 1 Status Report | | | |
-| Week 2 Status Report | | | |
-| Week 3 Status Report | | | |
-| Week 4 Status Report | | | |
-| Week 5 Status Report | | | |
-| Week 6 Status Report | | | |
-| Week 7 Status Report | | | |
-| Week 8 Status Report | | | |
+| Week 1 Status Report | Introduction | Met with team and Schedule Time | NA |
+| Week 2 Status Report |Finalizing project setup and initial development |Established workflow and team responsibilities |NA |
+| Week 3 Status Report | Conducted thorough code review|Team contract finalized	 |NA |
+| Week 4 Status Report | Began integrating key components|Successfully ran scripts in Ubuntu |NA |
+| Week 5 Status Report | Developed core features of panels|Improved UI and color consistency |NA |
+| Week 6 Status Report |Refined panel structure and tested functionality |8 panels operational with minor issues |NA |
+| Week 7 Status Report |Continued debugging and optimizing performance |Improved synchronization across panels |NA|
+| Week 8 Status Report |Worked towards finalizing PTM panel | Validated data and tested across different conditions|NA|
 | Week 9 Status Report | | | |
 | Week 10 Status Report | | | |
 | Week 11 Status Report | | | |
